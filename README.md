@@ -8,6 +8,6 @@
 2. task_1
  * [udacity's course 'Linux Command Line Basics'](https://github.com/nsmallbug/kottans_web_test/blob/master/task_1/LinuxCommandLineBasics.png)
  * [udacity's course 'Configuring Linux Web Servers'](https://github.com/nsmallbug/kottans_web_test/blob/master/task_1/ConfiguringLinuxWebServers.png)
- * [udacity's course 'Networking for Web Developers' ](https://github.com/nsmallbug/kottans_web_test/blob/master/task_1/NetworkingForWebDevelopers.png)
+ * [udacity's course 'Networking for Web Developers'](https://github.com/nsmallbug/kottans_web_test/blob/master/task_1/NetworkingForWebDevelopers.png)
 
 
